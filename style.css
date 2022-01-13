@@ -1,0 +1,26 @@
+body {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background-color: #daedd9;
+}
+
+table {
+    background-color: #b5d3db;
+    padding: 7px;
+}
+
+th,
+td {
+    border: 1px solid black;
+    padding: 4px;
+    text-align: center;
+}
+
+#result,
+#max {
+    color: #ff1700;
+    font-weight: bold;
+    text-align: left;
+}
